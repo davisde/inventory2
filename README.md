@@ -1,0 +1,2 @@
+# inventory
+Lab inventory demo
